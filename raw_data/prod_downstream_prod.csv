@@ -1,0 +1,8 @@
+PID,PID
+prod1_1,prod1_2
+prod1_3,prod2_1
+prod2_1,prod2_2
+prod2_2,prod1_2
+prod2_2,prod3_1
+prod2_3,prod2_2
+prod3_1,prod3_2

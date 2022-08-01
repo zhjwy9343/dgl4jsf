@@ -1,0 +1,9 @@
+CID,PID,capacity
+comp_1,prod1_1,1000
+comp_1,prod1_2,20
+comp_1,prod1_3,800
+comp_2,prod2_1,400
+comp_2,prod2_2,30
+comp_2,prod2_3,500
+comp_3,prod3_1,20
+comp_3,prod3_2,10
