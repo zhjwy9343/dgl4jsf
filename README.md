@@ -5,5 +5,6 @@
 - DGL 101: DGL的安装和核心图数据结构
 - DGL MP: DGL的核心API，消息传递机制
 - MetaPath2Vec: 异构图embedding样例
-- Node2Vce: 同构图embedding样例
+- randomwalk: DGL的随机游走的API介绍
+- Node2Vce: 同构图embedding样例(附送)
 
